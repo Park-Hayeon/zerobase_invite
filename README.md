@@ -8,7 +8,8 @@
 - IDE: Intellij
 - Framework: SpringBoot
 - Database: mysql  8.0.36
-<br><br>
+##### 서버 포트 : 8888
+<br>
 
 ## 주요 기능
 #### 회원 초대
@@ -41,3 +42,11 @@ private String message;
 private URL url;
 private MemberEntity memberEntity;
 ```
+<br>
+
+---
+
+#### ☁ 구글 드라이브
+용량 문제로 인해 개인 구글 드라이브에 업로드 하였습니다.
+https://drive.google.com/drive/folders/1B1R0GzQjVhQiOyUgMtDHdtJr91usPleU?usp=sharing
+
