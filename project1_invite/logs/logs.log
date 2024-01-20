@@ -1,0 +1,44 @@
+[2024-01-20 23:35:32][INFO][AnnotationConfigContextLoaderUtils.java:83] Could not detect default configuration classes for test class [com.zerobase.project1_invite.Project1InviteApplicationTests]: Project1InviteApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2024-01-20 23:35:32][INFO][SpringBootTestContextBootstrapper.java:234] Found @SpringBootConfiguration com.zerobase.project1_invite.Project1InviteApplication for test class com.zerobase.project1_invite.Project1InviteApplicationTests
+[2024-01-20 23:35:33][INFO][StartupInfoLogger.java:50] Starting Project1InviteApplicationTests using Java 21.0.2 with PID 19592 (started by cpgkr in C:\Users\cpgkr\OneDrive\πŸ≈¡ »≠∏È\zerobase\project1_invite\project1_invite)
+[2024-01-20 23:35:33][INFO][SpringApplication.java:662] No active profile set, falling back to 1 default profile: "default"
+[2024-01-20 23:35:35][INFO][RepositoryConfigurationDelegate.java:139] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2024-01-20 23:35:35][INFO][RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 134 ms. Found 1 JPA repository interface.
+[2024-01-20 23:35:36][INFO][LogHelper.java:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2024-01-20 23:35:36][INFO][Version.java:44] HHH000412: Hibernate ORM core version 6.4.1.Final
+[2024-01-20 23:35:36][INFO][RegionFactoryInitiator.java:50] HHH000026: Second-level cache disabled
+[2024-01-20 23:35:37][INFO][SpringPersistenceUnitInfo.java:87] No LoadTimeWeaver setup: ignoring JPA class transformer
+[2024-01-20 23:35:37][INFO][HikariDataSource.java:110] HikariPool-1 - Starting...
+[2024-01-20 23:35:37][INFO][HikariPool.java:565] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@407f2029
+[2024-01-20 23:35:37][INFO][HikariDataSource.java:123] HikariPool-1 - Start completed.
+[2024-01-20 23:35:38][WARN][DialectFactoryImpl.java:153] HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2024-01-20 23:35:39][INFO][JtaPlatformInitiator.java:58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2024-01-20 23:35:39][INFO][AbstractEntityManagerFactoryBean.java:437] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2024-01-20 23:35:40][WARN][JpaBaseConfiguration.java:232] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2024-01-20 23:35:40][INFO][WelcomePageHandlerMapping.java:59] Adding welcome page: class path resource [static/index.html]
+[2024-01-20 23:35:41][INFO][StartupInfoLogger.java:56] Started Project1InviteApplicationTests in 8.559 seconds (process running for 12.305)
+[2024-01-20 23:35:42][INFO][AbstractEntityManagerFactoryBean.java:650] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2024-01-20 23:35:42][INFO][HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+[2024-01-20 23:35:42][INFO][HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+[2024-01-20 23:41:07][INFO][AnnotationConfigContextLoaderUtils.java:83] Could not detect default configuration classes for test class [com.zerobase.project1_invite.Project1InviteApplicationTests]: Project1InviteApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2024-01-20 23:41:07][INFO][SpringBootTestContextBootstrapper.java:234] Found @SpringBootConfiguration com.zerobase.project1_invite.Project1InviteApplication for test class com.zerobase.project1_invite.Project1InviteApplicationTests
+[2024-01-20 23:41:08][INFO][StartupInfoLogger.java:50] Starting Project1InviteApplicationTests using Java 21.0.2 with PID 19520 (started by cpgkr in C:\Users\cpgkr\OneDrive\πŸ≈¡ »≠∏È\zerobase\project1_invite\project1_invite)
+[2024-01-20 23:41:08][INFO][SpringApplication.java:662] No active profile set, falling back to 1 default profile: "default"
+[2024-01-20 23:41:11][INFO][RepositoryConfigurationDelegate.java:139] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2024-01-20 23:41:12][INFO][RepositoryConfigurationDelegate.java:208] Finished Spring Data repository scanning in 238 ms. Found 1 JPA repository interface.
+[2024-01-20 23:41:14][INFO][LogHelper.java:31] HHH000204: Processing PersistenceUnitInfo [name: default]
+[2024-01-20 23:41:14][INFO][Version.java:44] HHH000412: Hibernate ORM core version 6.4.1.Final
+[2024-01-20 23:41:14][INFO][RegionFactoryInitiator.java:50] HHH000026: Second-level cache disabled
+[2024-01-20 23:41:16][INFO][SpringPersistenceUnitInfo.java:87] No LoadTimeWeaver setup: ignoring JPA class transformer
+[2024-01-20 23:41:16][INFO][HikariDataSource.java:110] HikariPool-1 - Starting...
+[2024-01-20 23:41:17][INFO][HikariPool.java:565] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b01897f
+[2024-01-20 23:41:17][INFO][HikariDataSource.java:123] HikariPool-1 - Start completed.
+[2024-01-20 23:41:17][WARN][DialectFactoryImpl.java:153] HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+[2024-01-20 23:41:21][INFO][JtaPlatformInitiator.java:58] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[2024-01-20 23:41:21][INFO][AbstractEntityManagerFactoryBean.java:437] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2024-01-20 23:41:23][WARN][JpaBaseConfiguration.java:232] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2024-01-20 23:41:23][INFO][WelcomePageHandlerMapping.java:59] Adding welcome page: class path resource [static/index.html]
+[2024-01-20 23:41:25][INFO][StartupInfoLogger.java:56] Started Project1InviteApplicationTests in 17.895 seconds (process running for 23.989)
+[2024-01-20 23:41:29][INFO][AbstractEntityManagerFactoryBean.java:650] Closing JPA EntityManagerFactory for persistence unit 'default'
+[2024-01-20 23:41:29][INFO][HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+[2024-01-20 23:41:29][INFO][HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
